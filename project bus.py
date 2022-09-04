@@ -1,6 +1,6 @@
 import mysql.connector
 try:
-    conn = mysql.connector.connect(host='localhost',user='root',passwd='2004@goushal')
+    conn = mysql.connector.connect(host='localhost',user='root',passwd='')
     print('connected...')
         
 except:
